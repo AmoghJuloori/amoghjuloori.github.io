@@ -179,8 +179,8 @@ An illustration from the simulator while testing the task 6.
 
 The above tasks were simulated in Isaac Gym and trained using PPO with reward functions designed keeping in mind the respective intended goals as specified for each of the tasks above.
 
-**Videos:**
-To be updated...
+<!-- **Videos:**
+To be updated... -->
 
 ---
 <br>
