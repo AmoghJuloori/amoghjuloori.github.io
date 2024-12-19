@@ -10,7 +10,7 @@ sitemap: false
 
 <!-- Deep Reinforcement Learning for manipulation tasks using a humanoid arm in complex environments. -->
 
-This is a work that marks the first step taken in working towards locomotion of a huumanoid in contact-rich environments, where manipulation is required to assist the walking of the robot.
+This is a work that marks the first step taken in working towards the locomotion of a humanoid in contact-rich environments, where manipulation is required to assist the walking of the robot.
 
 **About the Algorithm & Network:**
 -----------------------------------
